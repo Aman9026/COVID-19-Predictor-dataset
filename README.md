@@ -1,5 +1,5 @@
 # COVID-19-Dataset for Prediction
-Predict **COVID-19** by analyzing chest X-Ray image in this dataset
+Predict **COVID-19** by analyzing chest X-Ray images in this dataset
 
 
 
